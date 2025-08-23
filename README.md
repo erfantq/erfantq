@@ -24,6 +24,7 @@ I'm **Erfan** — a **Backend Developer** and **Blockchain Developer** 🚀
 - 📫 How to reach me:  
   - GitHub: [@erfantq](https://github.com/erfantq)  
   - LinkedIn: https://www.linkedin.com/in/erfan-taghavi-5219432b3/
+  - Email: [erfantaghavi319@gmail.com](mailto:erfantaghavi319@gmail.com)
   - Telegram: https://t.me/erfaaan_tq
 
 - ⚡ Fun fact:  
